@@ -1,9 +1,9 @@
-// Copyright  : Dennis Buis (2020)
-// License    : MIT
-// Platform   : Raspberry PI / MoodeAudio
-// File       : gpio.py
-// Purpose    : Scripting for rotary encoders (volume + track change)
-// Repository : https://github.com/DennisB66/MoodeAudio-Scripting
+# Copyright  : Dennis Buis (2020)
+# License    : MIT
+# Platform   : Raspberry PI / MoodeAudio
+# File       : gpio.py
+# Purpose    : Scripting for rotary encoders (volume + track change)
+# Repository : https://github.com/DennisB66/MoodeAudio-Scripting
 
 import RPi.GPIO as GPIO
 import threading
